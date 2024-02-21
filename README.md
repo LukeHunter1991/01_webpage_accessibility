@@ -23,7 +23,7 @@ This is a single page website. The 3 navigation headings link to the relevant se
 
 ## Credits
 
-Existing code and assets provided by BSC in collaboration with Monash University. All updates to code completed by Luke Hunter.
+Existing code and assets provided by edx in collaboration with Monash University. All updates to code completed by Luke Hunter.
 
 
 ## Features
