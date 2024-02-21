@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Below sections apply to the header section of the website to ensure correct styling and positioning of logo and nav bar items. */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -29,7 +30,7 @@ header nav{
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
@@ -51,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/* Main images applied as background image. As such no alt title has been added. Title property was added to Div element. */
 #hero {
     height: 800px;
     width: 100%;
@@ -61,7 +63,7 @@ p {
     display: block;
 }
 
-
+/* The images in the 3 sections in the main element alternate between the left and right. */ 
 .float-left {
     float: left;
     margin-right: 25px;
@@ -78,6 +80,7 @@ main {
     margin-left: 20px;
 }
 
+/* Benefits refers to the aside element aligned to the right of the main element. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -89,6 +92,7 @@ main {
     background-color: #2589bd;
 }
 
+/* There are 3 benefits, each with a heading, logo and a short sumamry - Lead Generation (benefit-lead), Brand Awareness (benefit-brand), Cost Management (benefit-cost). */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -137,6 +141,7 @@ main {
     max-width: 150px;
 }
 
+/* The 3 sections within the main element include a title, image, and short message. */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -192,6 +197,7 @@ main {
     font-size: 36px;
 }
 
+/* Footer uses default colors for background and text. */
 footer {
     padding: 30px;
     clear: both;
