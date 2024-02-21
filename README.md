@@ -1,5 +1,9 @@
 # <Webpage Accessibility>
 
+## Code Source
+HTML - https://github.com/LukeHunter1991/01_webpage_accessibility/blob/main/index.html
+CSS - [assets\css](https://github.com/LukeHunter1991/01_webpage_accessibility/blob/main/assets/css/style.css)
+
 ## Description
 
 In this project I took an existing webpage and updated the HTML, and subsequently the CSS, to meet accessibility standards. I did this to gain a deeper understanding of both HTML and CSS. This will assist the webpage with search engine optimisation and improves the functionality of accessibility technologies such as screen readers. In doing this I learned about updating and formatting a simple webpage. I also become extremely comfortable with the Git workflow.
